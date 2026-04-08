@@ -1,26 +1,16 @@
 # Hi there 👋
 
-DevOps/Infrastructure Engineer working with Kubernetes, OpenStack, and bare-metal provisioning. Building and maintaining cloud-native platforms, HPC environments, and observability stacks.
+DevOps/Infrastructure Engineer working with Kubernetes, OpenStack, and bare-metal provisioning. Building and maintaining cloud-native platforms, HPC environments, observability stacks, and ML platforms.
 
 ---
 
-## ⚡ About Me
-
-🐧 Linux enthusiast, I Use Arch BTW  
-📝 Neovim (Telescope, nvim-tree, LuaSnip)  
-🖥️ TUI tools lover  
-🌐 Cloud-native platforms  
-⚙️ Infrastructure automation  
-
----  
-
 ## 🖥️ Desktop Setup
 
-🪟 **bspwm**, sxhkd  
-🖥️ **Kitty**, Ghostty  
-🐚 **Zsh** (Oh-My-Zsh), Tmux  
-🚀 **Rofi**, ✨ **Picom**, 📊 **Polybar**  
-🔒 **Betterlockscreen**
+> 🐧 **Arch BTW** · 📝 **Neovim** (Telescope, nvim-tree, LuaSnip)
+
+| 🪟 WM | 🖥️ Terminal | 🐚 Shell | 🚀 Other |
+|--------|-------------|----------|----------|
+| bspwm, sxhkd | Kitty, Ghostty | Zsh, Tmux | Rofi, Picom, Polybar, Betterlockscreen |
 
 ---
 
