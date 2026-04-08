@@ -6,7 +6,7 @@ DevOps/Infrastructure Engineer working with Kubernetes, OpenStack, and bare-meta
 
 ## 🖥️ Desktop Setup
 
-> 🐧 **Arch BTW** · 📝 **Neovim** (Telescope, nvim-tree, LuaSnip)
+> 🐧 **I use Arch BTW** · 📝 **Neovim** (Telescope, nvim-tree, LuaSnip)
 
 | 🪟 WM | 🖥️ Terminal | 🐚 Shell | 🚀 Other |
 |--------|-------------|----------|----------|
