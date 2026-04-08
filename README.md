@@ -4,27 +4,23 @@ DevOps/Infrastructure Engineer working with Kubernetes, OpenStack, and bare-meta
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+## ⚡ About Me
 
-**⚡ About Me**
+🐧 Linux enthusiast, I Use Arch BTW  
+📝 Neovim (Telescope, nvim-tree, LuaSnip)  
+🖥️ TUI tools lover  
+🌐 Cloud-native platforms  
+⚙️ Infrastructure automation  
 
-- 🐧 Linux enthusiast, I Use Arch BTW
-- 📝 Neovim (Telescope, nvim-tree, LuaSnip)
-- 🖥️ TUI tools lover
-- 🌐 Cloud-native platforms
-- ⚙️ Infrastructure automation
+---  
 
----
+## 🖥️ Desktop Setup
 
-**🖥️ Desktop Setup**
-
-- 🪟 **bspwm**, sxhkd
-- 🖥️ **Kitty**, Ghostty
-- 🐚 **Zsh** (Oh-My-Zsh), Tmux
-- 🚀 **Rofi**, ✨ **Picom**, 📊 **Polybar**
-- 🔒 **Betterlockscreen**
-
-</div>
+🪟 **bspwm**, sxhkd  
+🖥️ **Kitty**, Ghostty  
+🐚 **Zsh** (Oh-My-Zsh), Tmux  
+🚀 **Rofi**, ✨ **Picom**, 📊 **Polybar**  
+🔒 **Betterlockscreen**
 
 ---
 
