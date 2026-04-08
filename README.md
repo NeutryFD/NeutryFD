@@ -18,4 +18,6 @@ DevOps/Infrastructure Engineer working with Kubernetes, OpenStack, and bare-meta
 **Status Bar:** Polybar  
 **Lock Screen:** Betterlockscreen  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeutryFD&show_icons=true&hide_border=false&theme=dracula)
+## Currently Working On
+
+Building HPC infrastructure, Kubernetes observability platforms, and CLI tools.
